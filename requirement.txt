@@ -1,0 +1,4 @@
+Node js => v.10
+$ yarn global add @quasar/cli
+# or
+$ npm install -g @quasar/cli
